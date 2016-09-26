@@ -11,7 +11,7 @@ I am using this blog to recount my experience transitioning from pure academic l
 
 * Skilled rat brain surgeon and neurophysiologist
 * Lover of all board games (Settlers of Catan, Pandemic)
-* Decent cook (ravenous eater)
+* Decent cook (avid eater)
 * Proud dog owner
 
 
