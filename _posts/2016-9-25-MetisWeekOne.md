@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Culture Shock: First Week of Metis Data Science Bootcamp
+title: Culture Shock - First Week of Metis Data Science Bootcamp
 ---
+
 
 >**Culture shock:** The feeling of disorientation experienced by someone who is suddenly subjected to an unfamliar culture, way of life, or set of attitudes.  
    
